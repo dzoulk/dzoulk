@@ -1,18 +1,18 @@
-<h2>Hi 👋, I'm Daniel </h2>
+<h2>Hi 👋, I'm Daniel</h2>
 
 <p>
-I am a second-year Computer Science student at University of British Columbia, 
-passionate about building software and learning systems.
+  I'm a second-year <strong>Computer Science student at the University of British Columbia</strong>
+  with a strong interest in building reliable, well-designed software.
 </p>
 
 <p>
-  I'm currently focused on strengthening my fundamentals in software engineering while working on both academic and personal projects.
+  I enjoy learning how systems work under the hood and applying my knowledge through
+  academic coursework and personal projects.
 </p>
 
 <p>
-  Feel free to connect with me on
+  You can connect with me on
   <a href="https://www.linkedin.com/in/daniel-zou-li/" target="_blank">LinkedIn</a>
-  or check out my portfolio at
-  <a href="https://dzoulk.github.io" target="_blank">https://dzoulk.github.io</a>
+  or view my work at
+  <a href="https://dzoulk.github.io" target="_blank">dzoulk.github.io</a>.
 </p>
-
