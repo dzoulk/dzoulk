@@ -1,9 +1,8 @@
-<h2>Hi 👋, I'm Daniel Zou</h2>
+<h2>Hi 👋, I'm Daniel </h2>
 
-<h3>About Me</h3>
 <p>
-I am a second-year Computer Science student at the University of British Columbia (UBC), 
-passionate about building software and learning how systems work under the hood.
+I am a second-year Computer Science student at University of British Columbia, 
+passionate about building software and learning systems.
 </p>
 
 <h3>Tech Stack</h3>
