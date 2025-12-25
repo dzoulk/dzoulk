@@ -5,28 +5,14 @@ I am a second-year Computer Science student at University of British Columbia,
 passionate about building software and learning systems.
 </p>
 
-<h3>Tech Stack</h3>
-
-<p><strong>Languages:</strong></p>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  I'm currently focused on strengthening my fundamentals in software engineering while working on both academic and personal projects.
 </p>
 
-<p><strong>Frameworks / Libraries:</strong></p>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+  Feel free to connect with me on
+  <a href="https://www.linkedin.com/in/daniel-zou-li/" target="_blank">LinkedIn</a>
+  or check out my portfolio at
+  <a href="https://dzoulk.github.io" target="_blank">https://dzoulk.github.io</a>
 </p>
 
-<p><strong>Developer Tools:</strong></p>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-</p>
