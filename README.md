@@ -1,1 +1,9 @@
-<h2>Hi 👋, I'm Daniel </h2> <p> I am a second-year Computer Science student at University of British Columbia, passionate about building software and learning systems. </p> <p> I'm currently focused on strengthening my fundamentals in software engineering while working on both academic and personal projects. </p> <p> Feel free to connect with me on <a href="https://www.linkedin.com/in/daniel-zou-li/" target="_blank">LinkedIn</a> or check out my portfolio at <a href="https://dzoulk.github.io" target="_blank">https://dzoulk.github.io</a> </p>
+<h2>Hi 👋, I'm Daniel </h2> <p> I'm a second-year Computer Science student with a minor in Mathematics. 
+  
+## Languages & Tools (Tech Stack)
+
+- **Languages:** Java, Python, C++, C, JavaScript, TypeScript, R, SQL, HTML, CSS
+
+- **Frameworks/Libs:** React.js, Node.js, Bootstrap CSS, Springboot, Express.js, Three.js, Next.js, GSAP
+
+- **Tools:** Git, Figma, VSCode, RStudio, Vite, ggplot2, AWS Lambda, Pandas/NumPy, Docker
