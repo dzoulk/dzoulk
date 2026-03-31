@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Daniel </h2> <p> I'm a second-year <strong>Computer Science</strong> student with a minor in <strong>Mathematics</strong> at the University of British Columbia. 
+<h2>Hi 👋, I'm Daniel </h2> <p> I'm a second-year <strong>Computer Science</strong> student at the University of British Columbia. 
   
 ## Languages & Tools (Tech Stack)
 
